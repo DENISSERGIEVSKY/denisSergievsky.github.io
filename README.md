@@ -1,2 +1,2 @@
-# denisSergievsky.github.io
+# Денис Сергиевский
 Мой первый сайт
