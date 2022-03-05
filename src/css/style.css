@@ -10,12 +10,12 @@ nav{
  color: #fff;
 font-size: 28px;
     line-height: 60px;
-    padding-left:  388px;
+    padding-left:  300px;
     float: left;
 }
 .menu{
     float: left;
-    padding-left: 432px;
+    padding-left: 350px;
     }
 
 .menu li{
@@ -29,8 +29,321 @@ font-size: 28px;
 }
 .mine{
     width: 100%;
-    height: calc (100% - 60px);
+    height: calc(100% - 60px);
     background: url(../img/boy.png)90% 100%/auto 85% no-repeat, url(../img/bg.jpg)center/cover no-repeat;
+}
+.title__container{
+    float: left;
+    margin:  350px 0px 0px 260px;
+    color: #2c384a;
+    text-align: center;
+}
+.title__container h1{
+    font-size: 60px;
+    font-weight: bold;
+}
+.title__container h4{
+    margin-top: 30px;
+    font-size: 22px;
+    color: #79818d;
     
 }
+.title__container input{
+    height: 40px;
+    text-align: center;
+    border: 2px solid #6d7682;
+    background: none;
+    border-radius: 5px;
+    color: #6d7682;
+    font-size: 13px;
+    padding: 0px 16px;
+    margin-top: 50px 14px 0px 14px;
+}
 
+/*заголовки h2*/
+.box h2{
+     margin: 40px 400px 10px 400px;
+    text-align: center;
+}
+/*ПОЛОСКА*/
+.line{
+    margin: 25px 0px 30px 724px;
+   
+}
+/*ФОТО ИКОНКА*/
+.fotka{
+    margin: 40px 0px 15px -60px;
+}
+/* ТЕКСТ ОБО МНЕ   */
+.box p{
+    margin: 0px 400px 10px 400px;
+    text-align: center;
+}
+/*СКАЧАТЬ РЕЗЮМЕ*/
+.click{
+ height: 40px;
+    text-align: center;
+    border: 2px solid #6d7682;
+    border-radius: 5px;
+    color: #6d7682;
+    font-size: 13px;
+    margin-bottom: 100px;
+    margin-top: 20px;
+    background: url(../img/%D0%B8%D0%BA%D0%BE%D0%BD%D0%BA%D0%B0.png)no-repeat left;
+    
+}
+.promo{
+    background: url(../img/%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B0%20%D1%84%D0%BE%D0%BD%D0%B0.jpg);
+
+    height: 520px;
+    
+}
+.icon{
+      display: flex;
+    padding: 280px 0px 0px 350px;
+    
+}
+.comp{
+    margin-right: 225px;
+}
+.ramca{
+    margin-right: 225px; 
+}
+.rocet{
+     margin-right: 225px;
+}
+.mafon{
+     margin-left: 225px;
+}
+
+
+
+
+.title{
+   margin: 15px 0px 0px 340px;
+    display: flex;
+}
+.web{
+ margin-right: 205px;
+}
+.razrab{
+  margin-right: 180px;  
+}
+.ceo{
+ margin-right:  180px;   
+}
+.market{
+ margin-left: -10px;   
+}
+.text{
+   
+    box-sizing: 10px;
+  margin-top: 15px;
+    display: flex;  
+   text-align: center;
+    font-size: 11px;
+}
+.case h5{
+ text-align: center;
+    margin-bottom: 15px;
+    font-size: 16px;
+    font-weight: bold;
+        
+        
+}
+.case1{
+    margin: 0px 0px 0px 300px;
+   float: left;
+}
+.client{
+    margin-bottom: 5px;
+}
+.kompany{
+    margin-bottom:5px;
+}
+.website{
+    margin-bottom: 5px;
+}
+.sate{
+    margin-bottom: 5px;
+}
+.knopka{
+border: 2px solid;
+    border-radius: 5px;
+}
+.case2{
+    
+    margin-left: 40px;
+}
+.title{
+    margin-bottom: 5px;
+}
+.title__sale{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.punkt{
+    margin-left: 380px;
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 60px;
+}
+.punkt h3{
+    margin-bottom: 8px;
+    margin-top: 8px;
+}
+.sel{
+    border: 2px solid ;
+    border-radius: 5px;
+}
+.sel2{
+   border: 2px solid ;
+    border-radius: 5px; 
+}
+.sel3{
+    border: 2px solid ;
+    border-radius: 5px;   
+}
+.stat{
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 60px;
+    
+}
+.fonnumber{
+    background: url(../img/%D1%84%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0.jpg);
+    height: 499px;
+}
+.iconstat{
+    text-align: center;
+    margin-top: 250px;
+    display: flex;
+}
+
+
+
+
+.smile{
+    margin-left: 300px
+}
+.skob{
+    margin-left: 230px;
+}
+.ok{
+   margin-left: 230px; 
+}
+.kub{
+    margin-left: 230px; 
+}
+
+
+.number{
+    display: flex;
+    margin-top: 15px;
+}
+
+.num1{
+    margin-left: 310px
+}
+.num2{
+    margin-left: 265px;
+}
+.num3{
+    margin-left: 260px;
+}
+.num4{
+    margin-left: 270px;
+}  
+.title__number{
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 100px;
+    
+}
+.sk{
+      margin-left: 240px
+}
+.chrab{
+    margin-left: 140px
+}
+.px{
+    margin-right: 200px
+}
+.np{
+    margin-left: 290px
+}
+.fotootz{
+    text-align: center;
+    margin-bottom: 15px;
+}
+.otziv{
+    text-align: center;
+    margin-bottom: 25px;
+}
+.dir{
+    text-align: center;
+}
+.kon{
+    text-align: center;
+}
+.contakt{
+    background: url(../img/%D0%A4%D0%BE%D0%BD%20%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D1%8B.jpg);
+    color: #fff;
+}
+
+
+
+
+
+.iconbottom{
+    display: flex;
+    margin-top:  40px;
+  
+}
+.geo{
+    margin-right: 200px;
+    margin-left: 530px;
+}
+.konvert{
+    margin-right: 200px;
+}
+.trubka{
+    margin-right: 200px;
+}
+
+
+.danie{
+    display: flex;
+    margin-top: 15px;
+    margin-bottom: 115px;
+}
+.spb{
+    margin-right: -30px;
+    margin-left: 460px;
+    text-align: center;
+    font-size:10px;
+}
+.email{
+    margin-left: 100px;
+    font-size: 10px;
+}
+.nomer{
+     margin-left: 130px;
+    font-size: 10px;
+}
+.sms{
+    margin-bottom: 20px;
+    text-align: center;
+}
+.name{
+    display: flex;
+    height: 30px;
+}
+.mail{
+    display: flex;
+    height: 30px;
+}
