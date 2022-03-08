@@ -62,12 +62,12 @@ font-size: 28px;
 
 /*заголовки h2*/
 .box h2{
-     margin: 40px 400px 10px 400px;
+     padding: 70px 400px 10px 400px;
     text-align: center;
 }
 /*ПОЛОСКА*/
 .line{
-    margin: 25px 0px 30px 724px;
+    margin: 10px 0px 30px 724px;
    
 }
 /*ФОТО ИКОНКА*/
@@ -76,7 +76,8 @@ font-size: 28px;
 }
 /* ТЕКСТ ОБО МНЕ   */
 .box p{
-    margin: 0px 400px 10px 400px;
+    padding: 0px 400px 10px 400px;
+   
     text-align: center;
 }
 /*СКАЧАТЬ РЕЗЮМЕ*/
@@ -87,69 +88,52 @@ font-size: 28px;
     border-radius: 5px;
     color: #6d7682;
     font-size: 13px;
-    margin-bottom: 100px;
-    margin-top: 20px;
     background: url(../img/%D0%B8%D0%BA%D0%BE%D0%BD%D0%BA%D0%B0.png)no-repeat left;
-    
-}
+  margin: 15px 650px 20px 650px ;
+    line-height: 30px;
+}            
 .promo{
     background: url(../img/%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B0%20%D1%84%D0%BE%D0%BD%D0%B0.jpg);
 
     height: 520px;
-    
 }
 .icon{
       display: flex;
-    padding: 280px 0px 0px 350px;
-    
+    padding: 150px 0px 50px 150px;
+    text-align: center;
+        margin-top:  40px
+            margin-top: 20px;
+    margin-bottom: 20px;
 }
 .comp{
-    margin-right: 225px;
+    margin-right: 160px;
 }
 .ramca{
-    margin-right: 225px; 
+    margin-right: 160px; 
 }
 .rocet{
-     margin-right: 225px;
+     margin-right: 160px;
 }
 .mafon{
-     margin-left: 225px;
-}
-
-
-
-
-.title{
-   margin: 15px 0px 0px 340px;
-    display: flex;
+     margin-left: 160px;
 }
 .web{
- margin-right: 205px;
+color: #cf7600;
 }
 .razrab{
-  margin-right: 180px;  
+  color: #cf7600;
 }
 .ceo{
- margin-right:  180px;   
+  color: #cf7600;  
 }
 .market{
- margin-left: -10px;   
-}
-.text{
-   
-    box-sizing: 10px;
-  margin-top: 15px;
-    display: flex;  
-   text-align: center;
-    font-size: 11px;
+color: #cf7600;
 }
 .case h5{
  text-align: center;
     margin-bottom: 15px;
     font-size: 16px;
     font-weight: bold;
-        
-        
 }
 .case1{
     margin: 0px 0px 0px 300px;
@@ -168,8 +152,12 @@ font-size: 28px;
     margin-bottom: 5px;
 }
 .knopka{
-border: 2px solid;
+    text-align: center;
     border-radius: 5px;
+    background: #63b5ae;
+    width: 150px;
+    height: 40px;
+    line-height: 40px;
 }
 .case2{
     
@@ -196,23 +184,25 @@ border: 2px solid;
     margin-top: 8px;
 }
 .sel{
-    border: 2px solid ;
-    border-radius: 5px;
+    border-radius: 1px;
+    margin: 5px 350px 5px 0px;
+    background: #eeeeee;
 }
 .sel2{
-   border: 2px solid ;
-    border-radius: 5px; 
+      border-radius: 1px;
+    margin: 5px 350px 5px 0px;
+    background: #eeeeee;
 }
 .sel3{
-    border: 2px solid ;
-    border-radius: 5px;   
+    border-radius: 1px;
+    margin: 5px 350px 5px 0px;
+    background: #eeeeee;
 }
 .stat{
     text-align: center;
     font-size: 16px;
     font-weight: bold;
-    margin-bottom: 60px;
-    
+    padding-top: 60px;
 }
 .fonnumber{
     background: url(../img/%D1%84%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0.jpg);
@@ -223,10 +213,6 @@ border: 2px solid;
     margin-top: 250px;
     display: flex;
 }
-
-
-
-
 .smile{
     margin-left: 300px
 }
@@ -239,8 +225,6 @@ border: 2px solid;
 .kub{
     margin-left: 230px; 
 }
-
-
 .number{
     display: flex;
     margin-top: 15px;
@@ -262,19 +246,19 @@ border: 2px solid;
     display: flex;
     margin-top: 20px;
     margin-bottom: 100px;
-    
+    margin: 10px 0px 10px 230px;
 }
 .sk{
-      margin-left: 240px
+      margin-right: 160px;
 }
-.chrab{
-    margin-left: 140px
+.chrb{
+    margin-right: 150px;
 }
 .px{
-    margin-right: 200px
+    margin-right:160px;
 }
 .np{
-    margin-left: 290px
+    margin-left: 140px;
 }
 .fotootz{
     text-align: center;
@@ -293,6 +277,7 @@ border: 2px solid;
 .contakt{
     background: url(../img/%D0%A4%D0%BE%D0%BD%20%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D1%8B.jpg);
     color: #fff;
+    margin-top: 60px;
 }
 
 
@@ -302,7 +287,6 @@ border: 2px solid;
 .iconbottom{
     display: flex;
     margin-top:  40px;
-  
 }
 .geo{
     margin-right: 200px;
@@ -337,13 +321,51 @@ border: 2px solid;
 }
 .sms{
     margin-bottom: 20px;
-    text-align: center;
+    text-align: center
+}
+.adres{
+    display: flex;
 }
 .name{
-    display: flex;
-    height: 30px;
+    margin: 10px 0px 10px 570px;
 }
 .mail{
-    display: flex;
-    height: 30px;
+    margin: 10px 0px 10px 40px;
 }
+.textpole{
+    margin: 10px 0px 20px 570px;
+}
+.open{
+    text-align: center;
+    border: 2px solid;
+    border-radius: 5px;
+    width: 120px;
+    height: 40px;
+    font-size: 35px;
+    background: none;
+    line-height: 25px;
+    margin: 10px 0px 40px 690px
+}
+.iconniz{
+    display: flex;
+    margin: 10px 0px 20px 590px;
+}
+.fb{
+    margin-right: 30px;
+}
+.twit{
+        margin-right: 40px;
+}
+.bol{
+        margin-right: 40px;
+}
+.cat{
+        margin-right: 40px;
+}
+.inst{
+        margin-right: 40px;
+}
+.in{
+        margin-right: 40px;
+}
+   
