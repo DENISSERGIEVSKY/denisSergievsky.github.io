@@ -1,0 +1,62 @@
+.container{
+    width: 100%active;
+        height: 60px;
+    
+}
+.row{
+line-height: 60px;
+    color: white;
+}
+nav {
+    z-index: 1;
+    width: 100%;
+    height: 60px;
+    background: #425068;
+    position: fixed;
+}
+.mine {
+    width: 100%;
+    height: 100%;
+}
+.fon{
+    background: url(../img/bg.jpg);
+     width: 100%;
+    height: 100%;
+}
+.title__container {
+    float: left;
+    color: #2c384a;
+    text-align: center;
+    opacity: 0;
+    -webkit-animation: tatlemuve 1s ease forwards;
+    -o-animation: tatlemuve 1s ease forwards;
+    animation: tatlemuve 1s ease forwards;
+    -webkit-animation-delay: 2.4s;
+    -o-animation-delay: 2.4s;
+    animation-delay: 2.4s;
+}
+
+
+.title__container h1 {
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.title__container h4 {
+    margin-top: 30px;
+    font-size: 22px;
+    color: #79818d;
+}
+
+.title__container input {
+    height: 40px;
+    text-align: center;
+    border: 2px solid #6d7682;
+    background: none;
+    border-radius: 5px;
+    color: #6d7682;
+    font-size: 16px;
+}
+
+
+
